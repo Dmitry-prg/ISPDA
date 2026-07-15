@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ispda.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connect_string" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ispda;localhost;root;root</Value>
+    </Setting>
+    <Setting Name="code_access_admin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1234</Value>
+    </Setting>
+    <Setting Name="IsDarkTheme" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gantBack" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#E5F8FE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
